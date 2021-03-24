@@ -1,0 +1,29 @@
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.exe
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.deps.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.runtimeconfig.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.runtimeconfig.dev.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.dll
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.pdb
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.AssemblyInfoInputs.cache
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.AssemblyInfo.cs
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.dll
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.pdb
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\img\sad_cocinero.jpg
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\img\perfect_cocinero.jpg
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.csprojAssemblyReference.cache
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.exe
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\img\perfect_cocinero.jpg
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\img\sad_cocinero.jpg
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.deps.json
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.runtimeconfig.json
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.runtimeconfig.dev.json
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.dll
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\BreakfastApp.pdb
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.AssemblyInfoInputs.cache
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.AssemblyInfo.cs
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.csproj.CoreCompileInputs.cache
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.dll
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.pdb
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.genruntimeconfig.cache
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.frmMain.resources
+C:\Users\Miguel.Quiroz\OneDrive - Computación en Acción, S.A. de C.V\Capacitaciones\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\BreakfastApp.csproj.GenerateResource.cache

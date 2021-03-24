@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>BreakfastApp</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img\perfect_cocinero.jpg" />
+    <None Remove="img\sad_cocinero.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="img\perfect_cocinero.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\sad_cocinero.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\CoffeeApp.exe
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\CoffeeApp.deps.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\CoffeeApp.runtimeconfig.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\CoffeeApp.runtimeconfig.dev.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\CoffeeApp.dll
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\CoffeeApp.pdb
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\CoffeeApp.csprojAssemblyReference.cache
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\CoffeeApp.AssemblyInfoInputs.cache
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\CoffeeApp.AssemblyInfo.cs
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\CoffeeApp.dll
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\CoffeeApp.pdb

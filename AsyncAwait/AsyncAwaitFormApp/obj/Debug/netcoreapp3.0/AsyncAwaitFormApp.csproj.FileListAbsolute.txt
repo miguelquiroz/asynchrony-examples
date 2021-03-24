@@ -1,0 +1,11 @@
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\AsyncAwaitFormApp.exe
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\AsyncAwaitFormApp.deps.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\AsyncAwaitFormApp.runtimeconfig.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\AsyncAwaitFormApp.runtimeconfig.dev.json
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\AsyncAwaitFormApp.dll
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\bin\Debug\netcoreapp3.0\AsyncAwaitFormApp.pdb
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\AsyncAwaitFormApp.csprojAssemblyReference.cache
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\AsyncAwaitFormApp.AssemblyInfoInputs.cache
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\AsyncAwaitFormApp.AssemblyInfo.cs
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\AsyncAwaitFormApp.dll
+C:\Code\Courses\AsyncAwait\AsyncAwaitFormApp\obj\Debug\netcoreapp3.0\AsyncAwaitFormApp.pdb
