@@ -1,8 +1,8 @@
 # Capacitación 2021
-##MVC y Async
+## MVC y Async
 
 
-####Ordered list
+#### Contenido
                 
 1. Guia MVC
 2. Poyecto de practica async
